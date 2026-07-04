@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.4.1] — 2026-07-04
+
+### Fixes
+
+- fix: wire agent tools to database in dashboard chat (#25) (ecb22ea)
+
+
 ## [v0.4.0] — 2026-07-04
 
 ### Features
