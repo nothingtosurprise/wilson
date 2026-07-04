@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.4.0] — 2026-07-04
+
+### Features
+
+- feat: SQLCipher encryption at rest via bun:sqlite setCustomSQLite (#24) (4771db9)
+
+
 ## [v0.3.0] — 2026-04-09
 
 ### Features
