@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.4.3] — 2026-07-05
+
+### Fixes
+
+- fix: drop ./ prefix from bin path so npm 11 keeps it (#30) (9071216)
+
+
 ## [v0.4.2] — 2026-07-04
 
 ### Fixes
